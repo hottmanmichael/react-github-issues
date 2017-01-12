@@ -1,0 +1,10 @@
+const constants = {
+	UI: {
+		IS_LOADING: 'IS_LOADING',
+		IS_LOADING_COMPLETE: 'IS_LOADING_COMPLETE',
+		UPDATE_PAGE: 'UPDATE_PAGE',
+		UPDATE_PAGE_COMPLETE: 'UPDATE_PAGE_COMPLETE',
+	}
+};
+
+export let UI = constants.UI;
